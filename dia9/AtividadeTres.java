@@ -9,6 +9,12 @@ public class AtividadeTres {
 		int somaDiagonalSecundaria = 0;
 		
 		/*
+		 * Elabore um algoritmo que leia uma Matriz 3x3 de números inteiros e em seguida, mostre na tela:
+		 * Todos os elementos da Diagonal Principal
+		 * Todos os elementos da Diagonal Secundária
+		 * A Soma de todos os elementos da Diagonal Principal
+		 * A Soma de todos os elementos da Diagonal Secundária
+		 * 
 		 * {1,2,3}
 		 * {4,5,6}
 		 * {7,8,9}
